@@ -39,6 +39,7 @@ public class Empregado {
 	}
 	public void setDepartamento(String departamento) {
 		this.departamento = departamento;
+		//
 	}
 
 	
